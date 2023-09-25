@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://profile-counter.glitch.me/lraton/count.svg?"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Filippo Notari</h1>
 <h3 align="center">A passionate maker from Italy</h3>
 
