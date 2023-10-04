@@ -1,6 +1,4 @@
-<div align="right">
-  <img src="https://profile-counter.glitch.me/lraton/count.svg?"  />
-</div>
+![](https://komarev.com/ghpvc/?username=lraton&color=green)
 
 <h1 align="center">Hi 👋, I'm Filippo Notari</h1>
 <h3 align="center">A passionate maker from Italy</h3>
