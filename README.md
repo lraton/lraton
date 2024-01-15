@@ -1,36 +1,19 @@
-![](https://komarev.com/ghpvc/?username=lraton&color=green)
-
-<h1 align="center">Hi 👋, I'm Filippo Notari</h1>
-<h3 align="center">A passionate maker from Italy</h3>
-
-- 🔭 I’m currently working on [Flopper Ziro](https://github.com/lraton/FlopperZiro)
-
-- 🌱 I’m currently learning **Bun**
-
-- 🤝 I’m looking for help with [Flopper Ziro](https://github.com/lraton/FlopperZiro)
-
-- 👨‍💻 All of my projects are available at [iratontech](https://iratontech.blogspot.com/)
-
-- 📫 How to reach me **notari.filippo@outlook.it**
-
-<!-- <img src="https://github.com/lraton/lraton/blob/output/snake.svg" alt="Snake animation" /> -->
+<h1 align="center">Hi there, I'm Filippo Notari 👋</h1>
+<h3 align="center">Passionate Maker from Italy 🇮🇹</h3>
 
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lraton&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="lraton" />
-</td>
+  <b>🔭 Currently working on</b>: [Flopper Ziro](https://github.com/lraton/FlopperZiro) <br/>
+  <b>🌱 Currently learning</b>: **Bun** <br/>
+  <b>🤝 Looking for help with</b>: [Flopper Ziro](https://github.com/lraton/FlopperZiro) <br/>
+  <b>👨‍💻 Explore my projects at</b>: [iratontech](https://iratontech.blogspot.com/) <br/>
+  <b>📫 Reach me at</b>: notari.filippo@outlook.it
+</p>
 
-<td width="50%" align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lraton&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="lraton" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lraton&show_icons=true&locale=en&theme=synthwave" alt="lraton" />
+</p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lraton&show_icons=true&locale=en&theme=synthwave" alt="lraton" />
-  
-  </td>
-</tr>
-</table>
-<div align=center>
-    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lraton&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&theme=radical" alt="TROPHY" />
+<div align="center">
+  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=lraton&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&theme=radical" alt="TROPHY" />
 </div>
-</p>  
