@@ -2,10 +2,10 @@
 <h3 align="center">Passionate Maker from Italy 🇮🇹</h3>
 
 <p align="center">
-  <b>🔭 Currently working on</b>: [Flopper Ziro](https://github.com/lraton/FlopperZiro) <br/>
-  <b>🌱 Currently learning</b>: **Bun** <br/>
-  <b>🤝 Looking for help with</b>: [Flopper Ziro](https://github.com/lraton/FlopperZiro) <br/>
-  <b>👨‍💻 Explore my projects at</b>: [iratontech](https://iratontech.blogspot.com/) <br/>
+  <b>🔭 Currently working on</b>: [Flopper Ziro](https://github.com/lraton/FlopperZiro) <br/><br/>
+  <b>🌱 Currently learning</b>: **Bun** <br/><br/>
+  <b>🤝 Looking for help with</b>: [Flopper Ziro](https://github.com/lraton/FlopperZiro) <br/><br/>
+  <b>👨‍💻 Explore my projects at</b>: [iratontech](https://iratontech.blogspot.com/) <br/><br/>
   <b>📫 Reach me at</b>: notari.filippo@outlook.it
 </p>
 
