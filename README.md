@@ -2,10 +2,10 @@
 <h1 align="center">Hi there, I'm Filippo Notari 👋</h1>
 <h3 align="center">Passionate Maker from Italy 🇮🇹</h3>
 
-**🔭 Currently working on**: [Flopper Ziro](https://github.com/lraton/FlopperZiro)  
-**🌱 Currently learning**: **Bun** <br>
+**🔭 Currently working on**: [Voxel](https://github.com/lraton/voxel)  
+**🌱 Currently learning**: **Threejs** <br>
 **🤝 Looking for help with**: [Flopper Ziro](https://github.com/lraton/FlopperZiro)  
-**👨‍💻 Explore my projects at**: [iratontech](https://iratontech.blogspot.com/)  
+**👨‍💻 Explore my projects at**: [iratontech](https://iratontech.filipponotari.site/)  
 **📫 Reach me at**: notari.filippo@outlook.it
 
 <p align="center">
