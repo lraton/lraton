@@ -4,10 +4,10 @@
 
 **🔭 Currently working on**: [Voxel](https://github.com/lraton/voxel)  
 **🌱 Currently learning**: **ThreeJS** <br>
-**🤝 Looking for help with**: [Flopper Ziro](https://github.com/lraton/FlopperZiro)
-**🌐 Explore my website at**: [blog](https://filipponotari.site/)
-**👨‍💻 Explore my projects at**: [iratontech](https://iratontech.filipponotari.site/)
-**📖 Read my blog/X at**: [blog](https://blog.filipponotari.site/)
+**🤝 Looking for help with**: [Flopper Ziro](https://github.com/lraton/FlopperZiro)  
+**🌐 Explore my website at**: [blog](https://filipponotari.site/)  
+**👨‍💻 Explore my projects at**: [iratontech](https://iratontech.filipponotari.site/)  
+**📖 Read my blog/X at**: [blog](https://blog.filipponotari.site/)  
 **📫 Reach me at**: notari.filippo@outlook.it
 
 <p align="center">
