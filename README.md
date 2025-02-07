@@ -14,7 +14,7 @@
 ### 🤝 Looking for Help With  
 - [Flopper Ziro](https://github.com/lraton/FlopperZiro)  
 
-### 🌐 Explore More  (Yes they are down for the moment)
+### 🌐 Explore More
 - **Website**: [iraton.it](https://iraton.it/)  
 - **Projects**: [techiraton](https://tech.iraton.it/)
 
