@@ -15,9 +15,8 @@
 - [Flopper Ziro](https://github.com/lraton/FlopperZiro)  
 
 ### 🌐 Explore More  (Yes they are down for the moment)
-- **Website**: [filipponotari.site](https://filipponotari.site/)  
-- **Projects**: [iratontech](https://iratontech.filipponotari.site/)  
-- **Blog/X**: [blog.filipponotari.site](https://blog.filipponotari.site/)  
+- **Website**: [iraton.it](https://iraton.it/)  
+- **Projects**: [techiraton](https://tech.iraton.it/)
 
 ### 📫 Contact Me  
 - **Email**: notari.filippo@outlook.it  
