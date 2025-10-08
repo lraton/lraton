@@ -6,10 +6,10 @@
 ---
 
 ### 🔭 Currently Working On  
-- [Voxel](https://github.com/lraton/voxel)  
+- ** Secret Thesis proejct 🤫 **  
 
 ### 🌱 Currently Learning  
-- **I'm searching**  
+- **In-depth study on design algorithms**  
 
 ### 🤝 Looking for Help With  
 - [Flopper Ziro](https://github.com/lraton/FlopperZiro)  
