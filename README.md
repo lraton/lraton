@@ -6,7 +6,7 @@
 ---
 
 ### 🔭 Currently Working On  
-- ** Secret Thesis proejct 🤫 **  
+- **Secret Thesis proejct 🤫**  
 
 ### 🌱 Currently Learning  
 - **In-depth study on design algorithms**  
