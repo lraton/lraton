@@ -9,7 +9,7 @@
 - **Secret Thesis proejct 🤫**  
 
 ### 🌱 Currently Learning  
-- **In-depth study on design algorithms**  
+- [In-depth study on design algorithms](https://mrce.in/ebooks/Algorithm%20Design%20Manual%203rd%20Ed.pdf)  
 
 ### 🤝 Looking for Help With  
 - [Flopper Ziro](https://github.com/lraton/FlopperZiro)  
