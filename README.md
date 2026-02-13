@@ -48,14 +48,6 @@ Email: notari.filippo@outlook.it
 
 ### <b style="color:#23E298;"> Iraton@readme: ~$ </b>```./show_stats.sh```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lraton&show_icons=true&locale=en&theme=transparent](https://helio-github-stats.vercel.app/api?username=lraton&custom_title=GitHub+Stats&theme=transparent&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats" />
-</p>
-
-<div align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=lraton&theme=transparent&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-</div>
-
 ### <b style="color:#23E298;"> Iraton@readme: ~$ </b> █
 
 </div>
