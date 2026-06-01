@@ -16,13 +16,14 @@ Hi there, I'm Filippo Notari 👋
 
 ├── working_on/
 
-│   └── Secret_Thesis_Project_🤫
+│   └── Done it! [Real time Violent action detection](https://github.com/lraton/real-time-violent-action-detection)
 
 ├── learning/
 
 │   └── In-depth_study_on_design_algorithms
 
 └── help_wanted
+│   └── [Flopper Ziro](https://github.com/lraton/FlopperZiro)
 
 
 3 directories, 3 files
@@ -32,8 +33,6 @@ Hi there, I'm Filippo Notari 👋
 [In-depth study on design algorithms](https://mrce.in/ebooks/Algorithm%20Design%20Manual%203rd%20Ed.pdf)
 
 ### <b style="color:#23E298;"> Iraton@readme: ~$ </b>``` cat ./current_activity/help_wanted/README.md```
-
-[Flopper Ziro](https://github.com/lraton/FlopperZiro)
 
 ### <b style="color:#23E298;"> Iraton@readme: ~$ </b>``` ls -l ./links/```
 
